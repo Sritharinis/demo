@@ -8,7 +8,7 @@ let result = nums.filter(n => n % 2 === 0)
                  .reduce((a, b) => a + b);
 
 console.log(result);
-console.log("Hellow World")
+console.log("Hellow World")/changes
 
 
 
